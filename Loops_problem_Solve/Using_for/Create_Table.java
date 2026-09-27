@@ -1,0 +1,15 @@
+package Loops_problem_Solve.Using_for;
+import java.util.*;
+public class Create_Table {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:");
+
+        int a = sc.nextInt();
+        for(int i = 1;i<=10;i++){
+            System.out.println(a+"*"+i+"="+a*i);
+        }
+        System.out.println("The create table is: "+a);
+    }
+    
+}
