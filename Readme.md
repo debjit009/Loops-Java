@@ -45,8 +45,6 @@ The main purpose of this repository is to improve my **Java programming fundamen
 
 **Debjit Das**
 
-BCA Student | Java Learner
-
 ---
 
 ⭐ This repository is part of my **Java learning journey**.
