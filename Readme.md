@@ -1,5 +1,3 @@
-
-
 # 🔄 Java Loops
 
 This repository contains my **Java Loops practice programs**.
